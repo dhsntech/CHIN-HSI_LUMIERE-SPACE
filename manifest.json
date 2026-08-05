@@ -2,17 +2,33 @@
     {
     "g_level": "0",
     "g_title":"退休快樂！",
-    "g_subtitle":"這是一個流光空間，但因時程較趕，照片未上傳完畢，將於6/30正式完工"
+    "g_subtitle":""
     },
     {
     "url": "/1.jpg",
     "type": "image/jpeg",
-    "title":"示範空間的一些話",
-    "info":"Hi!，這是Qimei Technology Studio的流光空間線上示範畫廊，你現在看到這裡的每個數字，代表你已經成功連接到正確的空間，而這裡的數值，代表manifest.json從上而下的排列，總而言之，你可以參考這個設計，並動動你靈活小腦袋瓜和手手，創造出更有意義的藝術空間!"
     },
     {
     "url": "/2.jpg",
     "type": "image/jpeg"
-    }
+    },
+    {
+    "url": "/3.jpg",
+    "type": "image/jpeg"
+    },
+    {
+    "url": "/4.jpg",
+    "type": "image/jpeg"
+    },
+    {
+    "url": "/5.jpg",
+    "type": "image/jpeg"
+    "title":"資訊一",
+    "info":"這是一年級還有36位同學的時候拍的，是一張非常有紀念價值的照片!"
+    },
+    {
+    "url": "/6.jpg",
+    "type": "image/jpeg"
+    },
   
 ]
